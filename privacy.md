@@ -101,12 +101,11 @@ The app is not directed at children under 13 and we do not knowingly collect
 data from them. If you believe a child has given us personal data, contact us
 and we will delete it.
 
-## Pattern credits
+## Patterns
 
 The patterns bundled with the app are free patterns published by their
-designers, and each one credits its designer and links to the original page. If
-you are a designer and want your pattern removed, contact us and we will remove
-it.
+designers. If you are a designer and want your pattern removed, contact us and
+we will remove it.
 
 ## Changes
 

@@ -48,13 +48,12 @@ Request one through Apple's support at <https://reportaproblem.apple.com>.
 ## Patterns and copyright
 
 **The bundled patterns belong to their designers, not to us.** They are free
-patterns published by their authors; each one credits its designer and links to
-the original page. Your subscription pays for the app — the library, the
-tracking, the import tools — and not for the patterns themselves.
+patterns published by their authors. Your subscription pays for the app — the
+library, the tracking, the import tools — and not for the patterns themselves.
 
 You may use the patterns to make items for yourself. Whether you may sell what
-you make, or redistribute a pattern, is up to each designer's own terms — check
-the original page we link to. Do not redistribute the patterns or resell them.
+you make, or redistribute a pattern, is up to each designer's own terms. Do not
+redistribute the patterns or resell them.
 
 If you are a designer and want your pattern removed from the app, email us and
 we will remove it.
